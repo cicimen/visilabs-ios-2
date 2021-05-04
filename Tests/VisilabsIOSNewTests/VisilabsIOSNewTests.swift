@@ -1,11 +1,11 @@
     import XCTest
-    @testable import VisilabsIOS
+    @testable import VisilabsIOSNew
 
-    final class VisilabsIOSTests: XCTestCase {
+    final class VisilabsIOSNewTests: XCTestCase {
         func testExample() {
             // This is an example of a functional test case.
             // Use XCTAssert and related functions to verify your tests produce the correct
             // results.
-            XCTAssertEqual(VisilabsIOS().text, "Hello, World!")
+            XCTAssertEqual(VisilabsIOSNew().text, "Hello, World!")
         }
     }

@@ -1,4 +1,4 @@
-struct VisilabsIOS {
+struct VisilabsIOSNew {
     var text = "Hello, World!"
     
 }
