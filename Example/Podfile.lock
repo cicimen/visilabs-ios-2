@@ -1,0 +1,35 @@
+PODS:
+  - CleanyModal (1.0.3)
+  - Colorful (3.0.0)
+  - Eureka (5.3.3)
+  - Euromsg (2.0.6)
+  - VisilabsIOSNew (0.0.1)
+
+DEPENDENCIES:
+  - CleanyModal
+  - Colorful
+  - Eureka
+  - Euromsg
+  - VisilabsIOSNew (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CleanyModal
+    - Colorful
+    - Eureka
+    - Euromsg
+
+EXTERNAL SOURCES:
+  VisilabsIOSNew:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CleanyModal: 5e5fece5b1de97b47ea091f6390ec2b16bfa2f20
+  Colorful: 9e093edacaa9fb73512ad9da157f0707b82d2542
+  Eureka: e6d720290c56bb23333ad1a0e020b2a98a0e9a43
+  Euromsg: 11aef230c52f54a09f140b5856bafc0d4bc13af0
+  VisilabsIOSNew: 7a3295faa795717ae73339cec60cc8b10a495b08
+
+PODFILE CHECKSUM: 6a539ad3ad7ad47e11f5db17d3b0501eb96d1f3f
+
+COCOAPODS: 1.10.1
