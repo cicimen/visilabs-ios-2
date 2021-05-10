@@ -5,6 +5,8 @@
 //  Created by Egemen on 1.09.2020.
 //
 
+import Foundation
+
 public class VisilabsGeofenceHistory: Codable {
     internal init(lastKnownLatitude: Double? = nil,
                   lastKnownLongitude: Double? = nil,

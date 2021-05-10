@@ -5,6 +5,8 @@
 //  Created by Egemen on 12.06.2020.
 //
 
+import Foundation
+
 public enum VisilabsTrackingMode: CustomStringConvertible {
     case tracking
     case common

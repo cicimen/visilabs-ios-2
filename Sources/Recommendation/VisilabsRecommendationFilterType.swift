@@ -5,6 +5,8 @@
 // Created by Egemen on 29.06.2020.
 //
 
+import Foundation
+
 @objc
 public enum VisilabsRecommendationFilterType: Int {
     case equals = 0
